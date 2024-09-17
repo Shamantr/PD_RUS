@@ -10,7 +10,7 @@
 #Decisions
  decision_pd_aw_shroud_planet: "Фазовая разблокировка завесы"
  decision_pd_aw_shroud_planet_desc: "Ослабив завесу между планетой и Покровом, мы сможем создать баланс материального и нематериального."
- decision_pd_aw_shroud_planet_effects_short: "Планета получит модификатор §Y$pd_aw_shroud_planet$§!.\n\nЭто повысит производительность £pop£ §Gпсиоников§! но снизит у £pop£ §Yне-псиоников§!."
+ decision_pd_aw_shroud_planet_effects_short: "Планета получит модификатор §Y$pd_aw_shroud_planet$§!.\n\nЭто повысит производительность £pop£ §Gпсиоников§!, но снизит у £pop£ §Yне-псиоников§!."
  decision_pd_aw_shroud_planet_cleanup: "Фазовая блокировка завесы"
  decision_pd_aw_shroud_planet_cleanup_desc: "Укрепив завесу между планетой и Покровом, наши физики смогут зафиксировать её в материальном мире."
  decision_pd_aw_shroud_planet_cleanup_tooltip: "\nМы можем убрать влияние Покрова на эту планету."

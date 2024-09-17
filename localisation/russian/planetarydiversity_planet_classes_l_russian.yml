@@ -31,6 +31,12 @@
  mod_pc_pd_temperate_habitability: "Приспособленность к континентальным мирам"
  trait_pc_pd_temperate_preference: "Предпочтение континентальных миров"
  trait_pc_pd_temperate_preference_desc: "$trait_pc_arctic_preference_desc$"
+ pc_pd_sakura: "Мир сакуры"
+ pc_pd_sakura_desc: "Каменистый мир с азотно-кислородной атмосферой. Активная и стабильная гидросфера с большими массивами суши, разделенными океанами. Поверхность покрыта пышными, вечно цветущими лесами."
+ pc_pd_sakura_adj: "цветущая"
+ mod_pc_pd_sakura_habitability: "Приспособленность к континентальным мирам"
+ trait_pc_pd_sakura_preference: "Предпочтение континентальных миров"
+ trait_pc_pd_sakura_preference_desc: "$trait_pc_arctic_preference_desc$"
  pc_pd_petrified: "Мир окаменелых лесов"
  pc_pd_petrified_desc: "Каменистый мир с азотно-кислородной атмосферой и активной и стабильной гидросферой. Огромные материки разделены океанами, а климат сильно варьируется. Из-за последствий планетарного потопа после ледникового периода окаменелые останки гигантских деревьев можно найти как на поверхности, так и погребенными в земле."
  pc_pd_petrified_adj: "окаменелая"
@@ -249,6 +255,12 @@
  mod_pc_pd_striped_habitability: "Приспособленность к засушливым мирам"
  trait_pc_pd_striped_preference: "Предпочтение засушливых миров"
  trait_pc_pd_striped_preference_desc: "$trait_pc_arctic_preference_desc$"
+ pc_pd_amethyst: "Аметистовый мир"
+ pc_pd_amethyst_desc: "Засушливый мир с бурным геологическим прошлым, из-за чего в его коре полно залежей аметистов."
+ pc_pd_amethyst_adj: "аметистовый"
+ mod_pc_pd_amethyst_habitability: "Приспособленность к засушливым мирам"
+ trait_pc_pd_amethyst_preference: "Предпочтение засушливых миров"
+ trait_pc_pd_amethyst_preference_desc: "$trait_pc_arctic_preference_desc$"
 
 #Savannah
  pc_pd_steppe: "Степной мир"
@@ -287,6 +299,12 @@
  mod_pc_pd_sandstone_habitability: "Приспособленность к мирам саванны"
  trait_pc_pd_sandstone_preference: "Предпочтение миров саванны"
  trait_pc_pd_sandstone_preference_desc: "$trait_pc_arctic_preference_desc$"
+ pc_pd_turquoise: "Бирюзовый мир"
+ pc_pd_turquoise_desc: "Этот субтропический мир с травянистой растительностью усыпан огромными залежами бирюзы, которые встречаются почти повсюду на его поверхности."
+ pc_pd_turquoise_adj: "бирюзовая"
+ mod_pc_pd_turquoise_habitability: "Приспособленность к мирам саванны"
+ trait_pc_pd_turquoise_preference: "Предпочтение миров саванны"
+ trait_pc_pd_turquoise_preference_desc: "$trait_pc_arctic_preference_desc$"
  pc_pd_supercontinent: "Суперконтинентальный мир"
  pc_pd_supercontinent_desc: "Каменистый мир с преобладанием лугов и сухих пустошей с азотно-кислородной атмосферой. В настоящее время тектонические плиты этой планеты образуют суперконтинент. Прибрежные земли полны пышной растительности, но большая часть внутренней местности представляет собой луга, которые постепенно переходят в большие засушливые пустыни."
  pc_pd_supercontinent_adj: "суперконтинентальная"
@@ -491,7 +509,7 @@
  pc_pd_dry_tidally_locked_desc: "Каменистый мир с азотно-кислородной атмосферой. Поскольку планета находится в приливном захвате, одна ее всегда опаляется лучами солнца, а другой суждено быть царством вечной тьмы. Жизнь возможна лишь в узкой зоне терминатора. Постоянный солнечный свет и ветер создают идеальные условия для производства пищи и энергии."
  pc_pd_dry_tidally_locked_adj: "синхронного вращения"
  mod_pc_pd_dry_tidally_locked_habitability: "Приспособленность к сумеречным мирам"
- trait_pc_pd_dry_tidally_locked_preference: "Предпочтение засушливых миров синхронного вращения"
+ trait_pc_pd_dry_tidally_locked_preference: "Предпочтение сумеречных миров"
  trait_pc_pd_dry_tidally_locked_preference_desc: "$trait_pc_arctic_preference_desc$"
  pc_pd_cold_tidally_locked: "Мир-Око"
  pc_pd_cold_tidally_locked_desc: "Каменистый, замерзший влажный мир с азотно-кислородной атмосферой. Планета находится в жестком приливном захвате своей родительской звезды, дневная сторона представляет собой оттаявший океан, постоянно подвергающийся бомбардировке солнечным светом, а ночная сторона состоит из замерзших ледников. Сильные ветра и мощные течения встречаются на границе этих двух разных сторон."
@@ -636,7 +654,7 @@
 
  ###Maybe one day with autoconcepts - pc_pd_superhabitable_tooltip: "§YSuperhabitable Worlds§! are ['concept_pd_uncommons']\n- Planet size is between §G31-35§!\n- Habitability bonuses on other §YSuperhabtiable Worlds§!\n- Can only be §YTerraformed§! between other §YSuperhabitable Worlds§!\n- £district£ §Y$district_farming_plural$§!: §G+4§!\n- Pop Growth Speed: §G+10%§!\n- Building and District Cost: §R+25%§!\n- Habitability: §R-20%§!\n- $rare_building_warning$\n$t$- ['building:building_superhab_lab']\n$t$- ['building:building_superhab_farm']\n$t$- ['building:building_superhab_foundry']"
 
- #Superhabitables
+ #Uncommon Tooltips
  pc_pd_superhabitable_tooltip: "§YСуперземли§! - это ['concept_pd_uncommons']\n- Размер в диапазоне §G31-35§!\n- Другие §Yсуперземли§! имеют повышенную пригодность при наличии приспособленности\n- Могут быть §Yтерраформированы§! только в другие §Yсуперземли§!\n- £district£ §Y$district_farming_plural$§!: §G+4§!\n- Скорость роста населения: §G+10%§!\n- Стоимость постройки строений и районов: §R+25%§!\n- Пригодность: §R-20%§!\n- $rare_building_warning$\n$t$- £society£ $pd_researcher_ending$\n$t$- $pd_tooltip_food$\n$t$- $pd_tooltip_alloys$"
  #Tidally Locked
  pc_pd_tidally_locked_tooltip: "§YМиры синхронного вращения§! - это ['concept_pd_uncommons']\n- Другие §Yмиры синхронного вращения§! имеют повышенную пригодность при наличии приспособленности\n- Могут быть §Yтерраформированы§! только в другие §Yмиры синхронного вращения§!\n- £district£ §Y$district_generator_plural$§!: §G+4§!\n- Максимум районов: §R-30%§!\n- $rare_building_warning$\n$t$- $pd_tooltip_energy$\n$t$- $pd_tooltip_food$\n$t$- £physics£ £society£ $pd_researcher_ending$"

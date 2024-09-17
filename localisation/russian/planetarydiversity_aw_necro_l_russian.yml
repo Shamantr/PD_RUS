@@ -42,7 +42,7 @@
 #Decision
  decision_pd_aw_necro_planet: "Построить Некрополь"
  decision_pd_aw_necro_planet_desc: "Этот мир жаждет стать просторным храмом, в котором будет звучать шепот нашего наследия, во веки веков."
- decision_pd_aw_necro_planet_effects_short: "Планета получит модификатор §Y$district_pd_aw_necro$§!.\nВместо возведения §Y$сельскохозяйственных$§! районов станет доступно строительство §Gрайонов Некрополя§!."
+ decision_pd_aw_necro_planet_effects_short: "Планета получит модификатор §Y$district_pd_aw_necro$§!.\nВместо возведения §Yсельскохозяйственных§! районов станет доступно строительство §Gрайонов Некрополя§!."
  decision_pd_aw_necro_planet_cleanup: "Снести Некрополь"
  decision_pd_aw_necro_planet_cleanup_desc: "Мы должны убрать храмы и гробницы, оставленные прежними хозяевами этой планеты."
  decision_pd_aw_necro_planet_cleanup_effects_short: "Модификатор §Y$pd_aw_necro_planet$§! будет удалён."

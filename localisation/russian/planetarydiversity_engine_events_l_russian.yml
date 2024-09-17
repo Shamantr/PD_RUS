@@ -9,6 +9,7 @@
  pdengine.21.forest: "$pc_pd_forest$"
  pdengine.21.tepid: "$pc_pd_tepid$"
  pdengine.21.temperate: "$pc_pd_temperate$"
+ pdengine.21.sakura: "$pc_pd_sakura$"
  pdengine.21.mushroom: "$pc_pd_mushroom$"
  pdengine.21.megaflora: "$pc_pd_megaflora$"
  pdengine.21.petrified: "$pc_pd_petrified$"
@@ -46,6 +47,7 @@
  pdengine.21.badlands: "$pc_pd_badlands$"
  pdengine.21.succulent: "$pc_pd_succulent$"
  pdengine.21.striped: "$pc_pd_striped$"
+ pdengine.21.amethyst: "$pc_pd_amethyst$"
  pdengine.21.coral: "$pc_pd_coral$"
  pdengine.21.primal: "$pc_pd_primal$"
  pdengine.21.savannah: "$pc_savannah$"
@@ -54,6 +56,7 @@
  pdengine.21.semi_arid: "$pc_pd_semi_arid$"
  pdengine.21.aspen: "$pc_pd_aspen$"
  pdengine.21.sandstone: "$pc_pd_sandstone$"
+ pdengine.21.turquoise: "$pc_pd_turquoise$"
  pdengine.21.prairie: "$pc_pd_prairie$"
  pdengine.21.supercontinent: "$pc_pd_supercontinent$"
  pdengine.21.sinkhole: "$pc_pd_sinkhole$"
@@ -93,7 +96,7 @@
  pdengine.24.cold_gaia: "$pc_pd_cold_gaia$"
 
 ###Life Seeded Choice Event
- pdengine.90.name: "Идеальный дом"
+ pdengine.90.name: "$civic_life_seeded$"
  pdengine.90.desc: "Наш вид эволюционировал в раю, имя которому §Y[Capital_scope.GetName]§!. Но какой же он?"
  pdengine.90.wet_gaia: "$pc_pd_wet_gaia$"
  pdengine.90.dry_gaia: "$pc_pd_dry_gaia$"

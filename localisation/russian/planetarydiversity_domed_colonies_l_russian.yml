@@ -35,7 +35,7 @@
  trait_pc_pd_domed_colony_barren_cold_preference: "Заглушка/Вы не должны это видеть"
  trait_pc_pd_domed_colony_barren_cold_preference_desc: "Заглушка/Вы не должны это видеть"
  pc_pd_domed_colony_frozen: "Купольная колония на замороженном мире"
- pc_pd_domed_colony_frozen_desc: "Скалистый мир, покрытый толстой коркой вечного льда. Низкие температуры и разреженная атмосфера мешают появлению жизни на поверхности планеты. На поверхности построены купольные колонии, пригодные для проживания."
+ pc_pd_domed_colony_frozen_desc: "Каменистый мир, покрытый толстой коркой вечного льда. Низкие температуры и разреженная атмосфера мешают появлению жизни на поверхности планеты. На поверхности построены купольные колонии, пригодные для проживания."
  pc_pd_domed_colony_frozen_adj: "$pc_pd_domed_colony_barren_adj$"
  mod_pc_pd_domed_colony_frozen_habitability: "Заглушка/Вы не должны это видеть"
  trait_pc_pd_domed_colony_frozen_preference: "Заглушка/Вы не должны это видеть"
@@ -165,7 +165,7 @@
  pd_interplanetary_system_initializer_NAME: "Случайная система с базами"
  pd_interplanetary_system_initializer_DESC: "Случайная стартовая система содержит одну купольную колонию и одну купольную базу."
  pd_interplanetary_sol_system_initializer_NAME: "Солнечная система с базами"
- pd_interplanetary_sol_system_initializer_DESC: "Вариант Солнечной системы, вв которой есть одна купольная колония и одна купольная база."
+ pd_interplanetary_sol_system_initializer_DESC: "Вариант Солнечной системы, в которой есть одна купольная колония и одна купольная база."
 
 #Concepts
  concept_pd_network_hub: "$d_pd_solar_system_network_hub$"
