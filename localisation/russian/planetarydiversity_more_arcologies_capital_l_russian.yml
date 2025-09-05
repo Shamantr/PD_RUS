@@ -34,3 +34,4 @@
  decision_pd_machine_centralized_processing_effects: "Добавляет §Y$d_pd_machine_centralized_processing$§! в столицу, что займёт часть пространства для районов, но расширит административные возможности машинного разума."
  d_pd_machine_centralized_processing: "Центральный Процессор"
  d_pd_machine_centralized_processing_desc: "Этот процессор возвышается над поверхностью планеты и является центральным узлом для обработки коллективных команд, хитроумно организуя работу дронов."
+ 

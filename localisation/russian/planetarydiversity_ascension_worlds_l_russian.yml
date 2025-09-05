@@ -38,7 +38,7 @@
  #Decisions
  decision_pd_wasteland_planet: "Нерегулируемые промышленные стандарты"
  decision_pd_wasteland_planet_desc: "Забота об окружающей среде только сдерживает нас. Игнорируя состояние естественной экосистемы планеты, мы раскроем ее истинный промышленный потенциал."
- decision_pd_wasteland_planet_effects_short: "Добавляет модификатор §Y$pd_aw_wasteland_planet$§!.\n\nУвеличивает §Gпроизводительность§! промышленности, но уменьшает £mod_pop_environment_tolerance£ §Rпригодность§! планеты."
+ decision_pd_wasteland_planet_effects_short: "Добавляет модификатор §Y$pd_wasteland_planet$§!.\n\nУвеличивает §Gпроизводительность§! промышленности, но уменьшает £mod_pop_environment_tolerance£ §Rпригодность§! планеты."
  decision_pd_wasteland_planet_cleanup: "Очистка окружающей среды"
  decision_pd_wasteland_planet_cleanup_desc: "Из-за серьезного ухудшения экологической обстановки на нашей планете ее экосистема находится в плачевном состоянии. Мы исправим ущерб, нанесенный этому миру."
  decision_pd_wasteland_planet_cleanup_tooltip: "Мы восстановим прежнюю экосистему планеты."
@@ -46,10 +46,10 @@
  #Modifiers
  pd_wasteland_planet: "Промышленная пустошь"
  pd_wasteland_planet_desc: "Забота об окружающей среде только сдерживает нас. Игнорируя состояние естественной экосистемы планеты, мы раскроем ее истинный промышленный потенциал."
- pd_wasteland_planet_tooltip: "Строительство £district£ §Yэнергетических§! и §Yдобывающих§! районов более не ограничено\nВозведение §Yсельскохозяйственных§! районов заблокировано""
+ pd_wasteland_planet_tooltip: "Строительство £district£ §Yэнергетических§! и §Yдобывающих§! районов более не ограничено"
  pd_aw_wasteland_planet: "Промышленная пустошь"
  pd_aw_wasteland_planet_desc: "$decision_pd_wasteland_planet_desc$"
- pd_aw_wasteland_planet_tooltip: "Строительство £district£ §Yэнергетических§! и §Yдобывающих§! районов более не ограничено\nВозведение §Yсельскохозяйственных§! районов заблокировано""
+ pd_aw_wasteland_planet_tooltip: "Строительство £district£ §Yэнергетических§! и §Yдобывающих§! районов более не ограничено"
 
  #Notification Message
  MESSAGE_PD_WASTELAND_DESC:1 "На планете $PLANET|Y$ теперь действуют §Y$decision_pd_wasteland_planet$§!"
@@ -104,7 +104,7 @@
 
  #Modifiers
  pd_necro_planet: "Некрополь"
- pd_necro_planet_tooltip: "§GОткрывает§!: £district£ $district_pd_aw_necro_plural$\n§RБлокирует§!: £district£ $district_farming_plural$\n£unity£ $unity$ от [GetAdministratorPluralWithIcon]: §G+0.5§!\n$MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$: §G-25%§!\n$MOD_POP_GROWTH_SPEED_REDUCTION$ на §R10%§!"
+ pd_necro_planet_tooltip: "£unity£ $unity$ от [GetAdministratorPluralWithIcon]: §G+0.5§!\n$MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$: §G-25%§!\n$MOD_POP_GROWTH_SPEED_REDUCTION$ на §R10%§!"
  pd_necro_planet_desc: "Этот мир жаждет стать просторным храмом, в котором будет звучать шепот нашего наследия, во веки веков."
  pd_aw_necro_city_planet: "$pd_aw_necro_planet$"
  pd_aw_necro_city_planet_desc: "$pd_aw_necro_planet_desc$"

@@ -196,3 +196,26 @@
  decision_pd_build_dayside_farm: "$decision_build_dayside_farm$"
  decision_pd_build_dayside_farm_desc: "$decision_build_dayside_farm_desc$"
  decision_pd_build_dayside_farm_effects_short: "$decision_build_dayside_farm_effects_short$"
+
+ #Gaia Terraforming
+ policy_pd_gaia_modifier: "Формирование миров"
+ policy_pd_gaia_modifier_desc: "Хоть это и влетит нам в копейку, мы вполне можем применить продвинутые технологии терраформирования, чтобы каждый мир после окончания проекта был идеален."
+ pd_expensive_gaia_terraforming_name: "Протокол 'Скульптор миров'"
+ pd_expensive_gaia_terraforming: "Протокол 'Скульптор миров'"
+ pd_expensive_gaia_terraforming_desc: "Каждая планета с активным терраформированием получит §Yмодификатор $engineered_environment_gaia$§!, что прямо увеличит стоимость проектов."
+ pd_normal_terraforming_name: "Стандартные протоколы терраформирования"
+ pd_normal_terraforming: "Стандартные протоколы терраформирования"
+ pd_normal_terraforming_desc: "Стоимость проектов терраформирования останется прежней, но мы сможем применять 'Скульптор миров' на планетах по нашему выбору."
+
+ #Nemma World
+ pd_nemma: "Мир немм"
+ pd_nemma_desc: "Невероятно, но острова на поверхности этой планеты - это колоссальные морские черепахи. Их называют Немма, и они спокойно плавают по океанам, если их не беспокоить."
+ #Alpha Centauri
+ pd_alpha_centauri: "Хирон"
+ pd_alpha_centauri_desc: "Измождённая экстремальной погодой и сейсмической активностью, поверхность планеты всё же не безжизненна и покрыта полями ксеногрибов. Несмотря на угрозы, здесь есть чем поживиться, ведь кора богата на ресурсы, а биосфера устойчива к недружелюбному климату."
+
+ #Zones
+ zone_pd_hive_spawning: "Место размножения"
+ zone_pd_hive_spawning_desc: "Область, предназначенная для размножения новых дронов."
+ zone_pd_machine_replication: "Зона сборки"
+ zone_pd_machine_replication_desc: "Область, предназначенная для сборки новых дронов."
