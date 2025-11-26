@@ -41,7 +41,7 @@
 
 #Decision
  decision_pd_aw_necro_planet: "Построить Некрополь"
- decision_pd_aw_necro_planet_desc: "Этот мир жаждет стать просторным храмом, в котором будет звучать шепот нашего наследия, во веки веков."
+ decision_pd_aw_necro_planet_desc: "Этот мир жаждет стать просторным храмом, в котором будет звучать шёпот нашего наследия, во веки веков."
  decision_pd_aw_necro_planet_effects_short: "Планета получит модификатор §Y$district_pd_aw_necro$§!."
  decision_pd_aw_necro_planet_cleanup: "Снести Некрополь"
  decision_pd_aw_necro_planet_cleanup_desc: "Мы должны убрать храмы и гробницы, оставленные прежними хозяевами этой планеты."
@@ -60,7 +60,7 @@
 
 #Acension Perk
  ap_pd_necro_worlds: "Некро-миры"
- ap_pd_necro_worlds_desc: "Наш мир жаждет стать просторным храмом, в котором будет звучать шепот нашего наследия, во веки веков."
+ ap_pd_necro_worlds_desc: "Наш мир жаждет стать просторным храмом, в котором будет звучать шёпот нашего наследия, во веки веков."
  allow_necro_worlds: "§HРешение:§! $decision_pd_aw_necro_planet$"
  describe_necro_worlds: "Открывает оружие колосса: §YНекро-луч§! §R(требуется бонус за стремление §Y$ap_colossus$§!)§!."
 
@@ -86,7 +86,7 @@
  MESSAGE_DESC_FOR_PLANET_KILLER_PD_NECRO_RAY: "подверглась некроформингу лучом"
  pd_necro_ray.02.name: "Планетарный некроформинг"
  pd_necro_ray.02.desc: "Когда колонна некроботов, испускаемая [FromFrom.GetName], рассеивается, поверхность [From.GetName] полностью преображается. Теперь это сплошной некро-мир."
- pd_necro_ray.02.tooltip: "Тип планеты изменится на §Y$pc_pd_necro$§!.\nВсе поселения роботов будут уничтожены, а органики получат черту §Y$trait_zombie$§!."
+ pd_necro_ray.02.tooltip: "Тип планеты изменится на §Y$pd_aw_necro_planet$§!.\nВсе поселения роботов будут уничтожены, а органики получат черту §Y$trait_zombie$§!."
  is_not_necro: "§R$TRIGGER_FAIL$Цель уже является §Yнекро-миром§!§!"
  will_purge_robots_and_zombie: "§RПоселения роботов будут уничтожены, а органики получат черту §Y$trait_zombie$§!§!"
  opinion_pd_necro_a_world: "Завершили некроформинг мира"

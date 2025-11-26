@@ -180,7 +180,7 @@
  decision_nuked_own_planet_desc: "Для процветания нам необходима радиоактивная среда. Мы можем преобразовать этот мир в соответствии с нашими текущими потребностями, используя обычные ядерные боеголовки."
 
  #Economic Categories
- mod_planet_bio_trophies_unity_produces_add: "£unity£ $unity$ от £job_bio_trophy£ $job_bio_trophy_plural$"
+ mod_planet_bio_trophies_unity_produces_add: "£unity£ $unity$ за каждые $pop_group_unit$ должностей [GetPopAssemblersPluralWithIcon]"
 
  #Flooding Ascension
  decision_pd_flood_planet: "Расширить планетарное море"

@@ -2,11 +2,11 @@
 
 #Modifiers
  pd_garden_arcology: "Эко-аркология"
- pd_garden_arcology_desc: "Этот экуменополис может похвастаться огромными, тщательно ухоженными садами, что создают обширные зеленые пояса среди городского пространства."
- pd_fortress_arcology: "Экуменополис-крепость"
+ pd_garden_arcology_desc: "Этот экуменополис может похвастаться огромными, тщательно ухоженными садами, что создают обширные зелёные пояса среди городского пространства."
+ pd_fortress_arcology: "Военная аркология"
  pd_fortress_arcology_desc: "Этот экуменополис служит военным командным центром планетарного масштаба; здесь расположены многочисленные казармы, тренировочные базы и заводы по производству оружия."
- pd_commerical_arcology: "Торговый экуменополис"
- pd_commerical_arcology_desc: "Этот экуменополис - межгалактический торговый узел, наполненный оживленными рынками, огромными торговыми центрами и обширной логистической инфраструктурой."
+ pd_commerical_arcology: "Торговая аркология"
+ pd_commerical_arcology_desc: "Этот экуменополис - межгалактический торговый узел, наполненный оживлёнными рынками, огромными торговыми центрами и обширной логистической инфраструктурой."
  pd_garden_arcology_rs: "$pd_garden_arcology$"
  pd_garden_arcology_rs_desc: "$pd_garden_arcology_desc$"
  pd_fortress_arcology_rs: "$pd_fortress_arcology$"
@@ -30,33 +30,33 @@
  #Regular Logistics
  job_pd_naval_admin: "Специалист по логистике"
  job_pd_naval_admin_plural: "Специалисты по логистике"
- job_pd_naval_admin_desc: "Этот высококвалифицированный вспомогательный персонал контролирует и обслуживает линии снабжения Флота."
+ job_pd_naval_admin_desc: "Этот высококвалифицированный вспомогательный персонал контролирует и обслуживает линии снабжения флота."
  mod_job_pd_naval_admin_add: "Должности специалистов по логистике"
- mod_job_pd_naval_admin_per_pop: "§G+1§! должность специалиста по логистике за каждые $VALUE$ ед. населения"
- mod_job_pd_naval_admin_per_pop_short: "\n§G+1§! £mod_job_pd_naval_admin_add£ за каждые $VALUE$ £pop£"
+ mod_job_pd_naval_admin_per_pop: "§G+1§! должность специалиста по логистике за каждые $VALUE$ поселений"
+ mod_job_pd_naval_admin_per_pop_short: "\n§G+1§! £mod_job_pd_naval_admin_add£ за $VALUE$ £pop£"
  job_pd_naval_admin_effect_desc: "£job_pd_naval_admin£ специалисты по логистике повышают эффективность функционирования Флота, расходуя £consumer_goods£ §Y$consumer_goods$§!, но производя £society£ §Yсоциологические исследования§! и £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!."
  #Gestalt Logisitics
  job_pd_naval_admin_gestalt: "Логистический дрон"
  job_pd_naval_admin_gestalt_plural: "Логистические дроны"
  job_pd_naval_admin_gestalt_desc: "Эти узкоспециализированные вспомогательные дроны контролируют и поддерживают линии снабжения флота."
  mod_job_pd_naval_admin_gestalt_add: "Должности логистических дронов"
- mod_job_pd_naval_admin_gestalt_per_pop: "§G+1§! должность логистического дрона за каждые $VALUE$ ед. населения"
- mod_job_pd_naval_admin_gestalt_per_pop_short: "\n§G+1§! £mod_job_pd_naval_admin_gestalt_add£ за каждые $VALUE$ £pop£"
+ mod_job_pd_naval_admin_gestalt_per_pop: "§G+1§! должность логистического дрона за каждые $VALUE$ поселений"
+ mod_job_pd_naval_admin_gestalt_per_pop_short: "\n§G+1§! £mod_job_pd_naval_admin_gestalt_add£ за $VALUE$ £pop£"
  job_pd_naval_admin_gestalt_effect_desc: "£job_pd_naval_admin_gestalt£ логистические дроны повышают эффективность функционирования Флота, расходуя £minerals£ §Yминералы§!, но производя £society£ §Yсоциологические исследования§! и £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!."
  job_pd_capital_bio_politician: "Биополитик"
  job_pd_capital_bio_politician_plural: "Биополитики"
  job_pd_capital_bio_politician_desc: "Некоторые подопечные по-настоящему счастливы только тогда, когда они кажутся важнее остальных. К счастью, если один органик говорит другим, что делать, это делает их более покладистыми, а нашим дронам становится проще их развлекать и контролировать."
  mod_job_pd_capital_bio_politician_add: "Должности биополитиков"
- mod_job_pd_capital_bio_politician_per_pop: "§G+1§! должность биополитика за каждые $VALUE$ ед. населения"
- mod_job_pd_capital_bio_politician_per_pop_short: "\n§G+1§! £mod_job_pd_capital_bio_politician_add£ за каждые $VALUE$ £pop£"
+ mod_job_pd_capital_bio_politician_per_pop: "§G+1§! должность биополитика за каждые $VALUE$ поселений"
+ mod_job_pd_capital_bio_politician_per_pop_short: "\n§G+1§! £mod_job_pd_capital_bio_politician_add£ за $VALUE$ £pop£"
  job_pd_capital_bio_effect_desc: "$job_pd_capital_bio_politician$ $job_pd_capital_bio_politician_plural$ используют £consumer_goods£ §Yтовары массового спроса§!, создают £unity£ §Yединство§! и увеличивают §Yпродуктивность дронов§!"
  #Rogue Rangers
  job_pd_robo_ranger: "Дрон-рейнджер"
  job_pd_robo_ranger_plural: "Дроны-рейнджеры"
  job_pd_robo_ranger_desc: "Дроны-рейнджеры следят за тем, чтобы наши планеты оставались как можно более чистыми и естественными для наших био-трофеев."
  mod_job_pd_robo_ranger_add: "Должности дронов-рейнджеров"
- mod_job_pd_robo_ranger_per_pop: "§G+1§! должность дрона-рейнджера за каждые $VALUE$ ед. населения"
- mod_job_pd_robo_ranger_per_pop_short: "\n§G+1§! £mod_job_pd_robo_ranger_add£ за каждые $VALUE$ £pop£"
+ mod_job_pd_robo_ranger_per_pop: "§G+1§! должность дрона-рейнджера за каждые $VALUE$ поселений"
+ mod_job_pd_robo_ranger_per_pop_short: "\n§G+1§! £mod_job_pd_robo_ranger_add£ за $VALUE$ £pop£"
  job_pd_robo_ranger_effect_desc: "$job_pd_robo_ranger$ $job_pd_robo_ranger_plural$ производят £amenities£ §Yблага§! и £society_research£ §Yсоциологические исследования§!."
 
 #Buildings
@@ -74,16 +74,16 @@
  decision_pd_garden_arcology_project_effects: "Превращает планету в §Yэко-аркологию§!, повышая значения £housing£ §Yжилья§!, §Yпроизводства ресурсов§! и §Yроста поселений§!, и открывая особые £district£ §Yаркологические районы§!, но при этом природные ресурсы планеты становятся §Rнедоступны§!, что мешает любому дальнейшему строительству £district£ §Yэнергетических§!, §Yдобывающих§! и §Yсельскохозяйственных§! районов."
  decision_pd_garden_arcology_project_effects_short: "Повышает £housing£ §Yжильё§!, §Yпроизводство ресурсов§! и §Yрост поселений§!\nПозволяет строить £district£ §Yаркологические районы§!\nБлокирует строительство £district£ §Yэнергетических§!, §Yдобывающих§! и §Yсельскохозяйственных§! районов."
  decision_pd_garden_arcology_project_relic: "Восстановить эко-аркологию"
- decision_pd_garden_arcology_project_relic_desc: "Эта планета была когда-то бурлящим жизнью экуменополисом. Восстановить его будет очень сложно, но мы можем его перестроить в эко-аркологию."
+ decision_pd_garden_arcology_project_relic_desc: "Эта планета была когда-то бурлящим жизнью экуменополисом. Восстановить его будет очень сложно, но мы можем перестроить его в эко-аркологию."
  decision_pd_garden_arcology_project_relic_effects: "$decision_pd_garden_arcology_project_effects$"
  decision_pd_garden_arcology_project_relic_effects_short: "$decision_pd_garden_arcology_project_effects_short$"
  #Fortress
- decision_pd_fortress_arcology_project: "Проект крепостной аркологии"
+ decision_pd_fortress_arcology_project: "Проект военной аркологии"
  decision_pd_fortress_arcology_project_desc: "Мы можем создать грозный бастион, интегрировав укрепленные структуры и продвинутую защиту вокруг наших аркологий."
  decision_pd_fortress_arcology_project_effects: "Превращает планету в §Yэкуменополис-крепость§!, повышая значения £housing£ §Yжилья§!, §Yпроизводства ресурсов§! и §Yроста поселений§!, и открывая особые £district£ §Yаркологические районы§!, но при этом природные ресурсы планеты становятся §Rнедоступны§!, что мешает любому дальнейшему строительству £district£ §Yэнергетических§!, §Yдобывающих§! и §Yсельскохозяйственных§! районов."
  decision_pd_fortress_arcology_project_effects_short: "Повышает £housing£ §Yжильё§!, §Yпроизводство ресурсов§! и §Yрост поселений§!\nПозволяет строить £district£ §Yаркологические районы§!\nБлокирует строительство £district£ §Yэнергетических§!, §Yдобывающих§! и §Yсельскохозяйственных§! районов."
- decision_pd_fortress_arcology_project_relic: "Восстановить экуменополис-крепость"
- decision_pd_fortress_arcology_project_relic_desc: "Эта планета была когда-то бурлящим жизнью экуменополисом. Восстановить его будет очень сложно, но мы можем его перестроить в экуменополис-крепость."
+ decision_pd_fortress_arcology_project_relic: "Восстановить военную аркологию"
+ decision_pd_fortress_arcology_project_relic_desc: "Эта планета была когда-то бурлящим жизнью экуменополисом. Восстановить его будет очень сложно, но мы можем перестроить его в военную аркологию."
  decision_pd_fortress_arcology_project_relic_effects: "$decision_pd_fortress_arcology_project_effects$"
  decision_pd_fortress_arcology_project_relic_effects_short: "$decision_pd_fortress_arcology_project_effects_short$"
  #Commerical
@@ -91,7 +91,7 @@
  decision_pd_commerical_arcology_project_desc: "Мы можем создать процветающий центр торговли, включив рынки и торговые сети в систему этой аркологии."
  decision_pd_commerical_arcology_project_effects: "Превращает планету в §Yторговый экуменополис§!, повышая значения £housing£ §Yжилья§!, §Yпроизводства ресурсов§! и §Yроста поселений§!, и открывая особые £district£ §Yаркологические районы§!, но при этом природные ресурсы планеты становятся §Rнедоступны§!, что мешает любому дальнейшему строительству £district£ §Yэнергетических§!, §Yдобывающих§! и §Yсельскохозяйственных§! районов."
  decision_pd_commerical_arcology_project_effects_short: "Повышает £housing£ §Yжильё§!, §Yпроизводство ресурсов§! и §Yрост поселений§!\nПозволяет строить £district£ §Yаркологические районы§!\nБлокирует строительство £district£ §Yэнергетических§!, §Yдобывающих§! и §Yсельскохозяйственных§! районов."
- decision_pd_commerical_arcology_project_relic: "Восстановить торговый экуменополис"
+ decision_pd_commerical_arcology_project_relic: "Восстановить торговую аркологию"
  decision_pd_commerical_arcology_project_relic_desc: "Эта планета была когда-то бурлящим жизнью экуменополисом. Восстановить его будет очень сложно, но мы можем его перестроить в торговый экуменополис."
  decision_pd_commerical_arcology_project_relic_effects: "$decision_pd_commerical_arcology_project_effects$"
  decision_pd_commerical_arcology_project_relic_effects_short: "$decision_pd_commerical_arcology_project_effects_short$"
@@ -99,7 +99,7 @@
 #Dummy Classes
  pc_pd_fortress_city: "Это заглушка, не использовать."
  pc_pd_fortress_city_desc: "Это заглушка, не использовать."
- pc_pd_fortress_city_adj: "городской"
+ pc_pd_fortress_city_adj: "городская"
  mod_pc_pd_fortress_city_habitability: "Это заглушка, не использовать."
  trait_pc_pd_fortress_city_preference: "Это заглушка, не использовать."
  trait_pc_pd_fortress_city_preference_desc: "Это заглушка, не использовать."
@@ -153,7 +153,7 @@
 
  #Modifiers
  pd_hive_military: "Крепость Улья"
- pd_hive_military_desc: "Этот мир играет важную роль в основных функциях Разума Улья и защищает его от внешних угроз и чужого вмешательства. Планету окутывает грозный щит, а дроны-воины стоят наготове, обеспечивая ее защиту."
+ pd_hive_military_desc: "Этот мир играет важную роль в основных функциях Разума Улья и защищает его от внешних угроз и чужого вмешательства. Планету окутывает грозный щит, а дроны-воины стоят наготове, обеспечивая её защиту."
  pd_machine_military: "Нексус обороны"
  pd_machine_military_desc: "Этот планетоид является неотъемлемой частью операционной матрицы этого машинного разума. Она защищена от внешнего вмешательства, заключена в неуязвимый оборонительный механизм. Боевые дроны находятся в постоянной готовности, сохраняя целостность системы."
 
@@ -171,7 +171,7 @@
 ###Tooltips
  decision_pd_garden_arcology_project_effects: "Превращает планету в §Y$pc_city$§!, повышая значения §Yпроизводства ресурсов§! и §Yроста поселений§!.\nОткрывает £district£ аркологические районы:$TABBED_NEW_LINE$- §Y$district_arcology_civilian_industry$§!$TABBED_NEW_LINE$- §Y$district_pd_arcology_research$§!$TABBED_NEW_LINE$- §Y$district_arcology_leisure$§!$TABBED_NEW_LINE$- §Y$district_arcology_administrative$§!\nБлокирует £district£ районы:$TABBED_NEW_LINE$- §Y$district_generator$§! $TABBED_NEW_LINE$- §Y$district_mining$§!$TABBED_NEW_LINE$- §Y$district_farming$§!"
  decision_pd_miltary_arcology_project_effects: "Превращает планету в §Y$pc_city$§!, повышая значения §Yпроизводства ресурсов§! и §Yроста поселений§!.\nОткрывает £district£ аркологические районы:$TABBED_NEW_LINE$- §Y$district_arcology_arms_industry$§!$TABBED_NEW_LINE$- §Y$district_pd_arcology_naval$§!$TABBED_NEW_LINE$- §Y$district_arcology_leisure$§!$TABBED_NEW_LINE$- §Y$district_arcology_administrative$§!\nБлокирует £district£ районы:$TABBED_NEW_LINE$- §Y$district_generator$§! $TABBED_NEW_LINE$- §Y$district_mining$§!$TABBED_NEW_LINE$- §Y$district_farming$§!"
- decision_pd_commerical_arcology_project_effects: "Превращает планету в §Y$pc_city$§!, повышая значения §Yпроизводства ресурсов§! и §Yроста поселений§!.\nОткрывает £district£ аркологические районы:$TABBED_NEW_LINE$- §Y$district_pd_arcology_industrial$§!$TABBED_NEW_LINE$- §Y$district_arcology_pd_trade$§!$TABBED_NEW_LINE$- §Y$district_arcology_leisure$§!$TABBED_NEW_LINE$- §Y$district_arcology_administrative$§!\nБлокирует £district£ районы:$TABBED_NEW_LINE$- §Y$district_generator$§! $TABBED_NEW_LINE$- §Y$district_mining$§!$TABBED_NEW_LINE$- §Y$district_farming$§!"
+ decision_pd_commercial_arcology_project_effects: "Превращает планету в §Y$pc_city$§!, повышая значения §Yпроизводства ресурсов§! и §Yроста поселений§!.\nОткрывает £district£ аркологические районы:$TABBED_NEW_LINE$- §Y$district_pd_arcology_industrial$§!$TABBED_NEW_LINE$- §Y$district_arcology_pd_trade$§!$TABBED_NEW_LINE$- §Y$district_arcology_leisure$§!$TABBED_NEW_LINE$- §Y$district_arcology_administrative$§!\nБлокирует £district£ районы:$TABBED_NEW_LINE$- §Y$district_generator$§! $TABBED_NEW_LINE$- §Y$district_mining$§!$TABBED_NEW_LINE$- §Y$district_farming$§!"
 
  ###4.0 and Beyond
  ##Garden Arc

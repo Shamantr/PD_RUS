@@ -50,7 +50,7 @@
  mod_pc_pd_machine_cave_arc_habitability: "Приспособленность к Нексусам обороны"
  trait_pc_pd_machine_cave_arc_preference: "Предпочтение Нексусов обороны"
  trait_pc_pd_machine_cave_arc_preference_desc: "$trait_pc_arctic_preference_desc$"
- 
+
  #Modifiers
  pd_hive_military: "Крепость Улья"
  pd_hive_military_desc: "Этот мир играет важную роль в основных функциях Разума Улья и защищает его от внешних угроз и чужого вмешательства. Планету окутывает грозный щит, а дроны-воины стоят наготове, обеспечивая ее защиту."

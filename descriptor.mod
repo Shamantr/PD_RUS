@@ -1,8 +1,8 @@
-version="1.3.0"
+version="1.4.1"
 tags={
 	"Translation"
 }
 name="Planetary Diversity [RUS]"
 picture="thumbnail.png"
-supported_version="v4.0.*"
+supported_version="v4.1.*"
 remote_file_id="3037981020"
