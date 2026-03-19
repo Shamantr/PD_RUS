@@ -219,3 +219,7 @@
  zone_pd_hive_spawning_desc: "Область, предназначенная для размножения новых дронов."
  zone_pd_machine_replication: "Зона сборки"
  zone_pd_machine_replication_desc: "Область, предназначенная для сборки новых дронов."
+
+ #Pelagic Planet
+ pd_pelagic_planet: "Панталассический мир"
+ pd_pelagic_planet_desc: "Эта планета целиком покрыта глобальным океаном, и на его поверхность не пробивается ни единого кусочка земли."

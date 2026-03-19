@@ -136,7 +136,7 @@
  pd_origin_init_crystal_DESC:0 "В стартовой системе присутствует уникальный мир кристаллов"
  origin_pd_crystal_world:0 "Камнерождённые"
  origin_pd_crystal_world_desc:0 "Эта цивилизация развилась на зелёной планете, на чьей поверхности то тут, то там возвышаются огромные столпы из редких асеанских кристаллов."
- origin_tooltip_crystal_world_effects:0 "- $HOMEWORLD$$TABBED_NEW_LINE$- §Y$pc_tropical$§! (Размер: £planetsize£ 20)$TABBED_NEW_LINE$- Планетарное свойство:['concept_pd_crystal']$TABBED_NEW_LINE$- Особенность: ['concept_d_pd_acean_pillars']\n- Доступ к дополнительным технологиям:$TABBED_NEW_LINE$- ['concept_acean_research', £engineering_research£ $tech_acean_research$]$TABBED_NEW_LINE$- ['concept_acean_superorganism_larva', £society_research£ $tech_acean_superorganism_larva$]$TABBED_NEW_LINE$- ['concept_acean_medical_center', £society_research£ $concept_acean_medical_center$] (Обычные империи)$TABBED_NEW_LINE$- ['concept_acean_gestation_pools', £society_research£ $tech_acean_gestation_pools$] (Гештальт-империи)$TABBED_NEW_LINE$- ['concept_acean_resonators', £engineering_research£ $tech_acean_resonators$] (Империи машин)"
+ origin_tooltip_crystal_world_effects:0 "- $HOMEWORLD$$TABBED_NEW_LINE$- §Y$pc_tropical$§! (Размер: £planetsize£ 20)$TABBED_NEW_LINE$- Планетарное свойство: ['concept_pd_crystal']$TABBED_NEW_LINE$- Особенность: ['concept_d_pd_acean_pillars']\n- Доступ к дополнительным технологиям:$TABBED_NEW_LINE$- ['concept_acean_research', £engineering_research£ $tech_acean_research$]$TABBED_NEW_LINE$- ['concept_acean_superorganism_larva', £society_research£ $tech_acean_superorganism_larva$]$TABBED_NEW_LINE$- ['concept_acean_medical_center', £society_research£ $concept_acean_medical_center$] (Обычные империи)$TABBED_NEW_LINE$- ['concept_acean_gestation_pools', £society_research£ $tech_acean_gestation_pools$] (Гештальт-империи)$TABBED_NEW_LINE$- ['concept_acean_resonators', £engineering_research£ $tech_acean_resonators$] (Империи машин)"
  concept_pd_crystal: "$pd_crystal$"
  concept_pd_crystal_desc: "- Максимум сельскохозяйственных районов: §G+3%§!\n- Максимум добывающих районов: §G+3%§!\n- £food£ Пища от £job_farmer£ ['concept_farmer', фермеров]: §G+2§!"
  concept_d_pd_acean_pillars: "$d_pd_acean_pillars$"
@@ -292,7 +292,7 @@
  tech_biosynth_edicts_tooltip: "§HУказы:§! применение живого металла"
  tech_biosynth_trait: "Биосинтетические робосистемы"
  tech_biosynth_trait_desc: "Интегрировав решения Unit 04, мы сможем улучшть конструкции роботов биосинтетическими системами, значительно увеличив скорость сборки и их производительность."
- tech_biosynth_trait_tt_desc: "§HОсобенность:§! $trait_unit_04_children$"
+ tech_biosynth_trait_tt_desc: "§HПризнак:§! $trait_unit_04_children$"
 
  #Decisions
  decision_pd_add_biosynth_canal_system: "Построить биосинтетическую систему каналов"

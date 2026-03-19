@@ -15,14 +15,14 @@
  decision_pd_aw_unflood_habitat_desc: "Эта среда обитания прекрасна, но может стать для нас идеальной. Если мы её осушим, она прекрасно подойдёт для сухопутных видов."
  decision_pd_aw_flood_habitat_tooltip: "Пригодность: §R-20%§!\nСоответствует §Yокеаническому§! миру для §Yаквоидов§!.\nЛёд будет добываться в системе, космическая база которой обладает модулем §Y$sm_ice_mining_station$§!."
 
- flooded_habitat: "Затоплено"
- flooded_habitat_desc: "Залитая водой, эта среда обитания идеально подходит для аквоидов."
+ flooded_habitat: "Затопленное орбитальное поселение"
+ flooded_habitat_desc: "Залитое водой, это орбитальное поселение идеально подходит для аквоидов."
  pd_aw_flooded_planet_tooltip: "$MOD_PLANET_MAX_DISTRICTS_ADD$: §G+3§!\n$MOD_LOGISTIC_GROWTH_MULT$: §G+10%§!\n$mod_planet_jobs_produces_mult$: §G+5%§!\nПригодность для §Yне-аквоидов§!: §R-20%§!"
 
  pd_aw_flooded_planet: "Затопленный мир"
  pd_aw_flooded_planet_desc: "Эта океаническая планета идеально подходит для аквоидов или прочих приспособленных для жизни под водой."
- pd_aw_flooded_habitat: "Затопленная среда обитания"
- pd_aw_flooded_habitat_desc: "Залитая водой, эта среда обитания идеально подходит для аквоидов."
+ pd_aw_flooded_habitat: "Затопленное орбитальное поселение"
+ pd_aw_flooded_habitat_desc: "Залитое водой, это орбитальное поселение идеально подходит для аквоидов."
 
  ICE_MINING_PLANET_SUCCESS_TITLE: "Затопление планеты завершено"
  ICE_MINING_PLANET_SUCCESS_DESC: "Благодаря добыче льда в системе $SYSTEM|Y$ нам удалось затопить поверхность §Y[This.GetName]§!."
@@ -31,3 +31,7 @@
  ocean_paradise_2_desc: "$ocean_paradise_desc$"
  ocean_paradise_hive_2: "$ocean_paradise_hive$"
  ocean_paradise_hive_2_desc: "$ocean_paradise_hive_desc$"
+
+ #Pelagic Planet
+ pd_pelagic_planet: "Панталассический мир"
+ pd_pelagic_planet_desc: "Эта планета целиком покрыта глобальным океаном, и на его поверхность не пробивается ни единого кусочка земли."

@@ -16,7 +16,7 @@
  concept_transplant_pd_aw_tree_of_life: "$decision_pd_replant_aw_tree_of_life$"
  concept_transplant_pd_aw_tree_of_life_desc: "Высадить Древо Жизни в этом мире.\n\n§L$decision_pd_replant_aw_tree_of_life_desc$§!"
  concept_pd_aw_tree_of_life_holding: "$holding_tree_of_life_sapling$"
- concept_pd_aw_tree_of_life_holding_desc: "- $MOD_MONTHLY_LOYALTY_GAIN$: §G+1§!\n- $MOD_POP_ENVIRONMENT_TOLERANCE$: §G+10%§!\n- £food£ Пища от £job_farmer£ ['concept_farmer']: §G+1§!\n- Должности £mod_job_ranger_add£ ['concept_overlord_arborist', древоведов сюзерена]: §G+1§!\n\n§L$holding_tree_of_life_sapling_desc$§!"
+ concept_pd_aw_tree_of_life_holding_desc: "- $MOD_MONTHLY_LOYALTY_GAIN$: §G+1§!\n- $MOD_POP_ENVIRONMENT_TOLERANCE$: §G+10%§!\n- £food£ Пища от £job_farmer£ ['concept_farmer', фермеров]: §G+1§!\n- Должности £mod_job_ranger_add£ ['concept_overlord_arborist', древоведов сюзерена]: §G+1§!\n\n§L$holding_tree_of_life_sapling_desc$§!"
 
 
 #Deposits
