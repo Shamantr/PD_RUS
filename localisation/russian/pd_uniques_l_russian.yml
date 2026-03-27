@@ -179,7 +179,7 @@
  tech_acean_resonators_tt_desc: "§HПризнак:§! $trait_pd_acean_resonators$"
  trait_pd_acean_resonators: "Асеанские резонаторы"
  trait_pd_acean_resonators_desc: "Внедрив асеанские кристаллы в наши сборочные схемы, мы сможем обеспечить более быструю и эффективную сборку систем."
- trait_pd_acean_resonators_tt: "£sr_acean£ §Y$sr_acean$§! на содержание: §R+0.02§!\n$r_energy$ на содержание: §G-1§!"
+ trait_pd_acean_resonators_tt: "£sr_acean£ §Y$sr_acean$§! на содержание: §R+0.02§!\n$r_energy$ на содержание: §G-1§!"
 
  #Edicts
  edict_acean_pop_growth: "Асеанская городская инфраструктура"
